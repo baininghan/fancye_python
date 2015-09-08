@@ -10,7 +10,8 @@ import time
 
 '''
     原文链接：http://cuiqingcai.com/990.html
-    
+    1. 添加decode('utf-8','ignore')解码
+    2. 添加发布时间，time处理
 '''
 # 糗事百科爬虫类
 class QSBK:
